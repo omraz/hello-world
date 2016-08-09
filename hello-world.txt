@@ -2,7 +2,7 @@
 //  Novy zdrojak
 
 pisu, pisu, pisu, pisu, pisu, pisu, pisu, pisu, pisu
-Stale , pisu, pisu, pisu, pisu, pisu, pisu, pisu, pisu
+Stale pisu, pisu, pisu, pisu, pisu, pisu, pisu, pisu
 , pisu, pisu, pisu, pisu, pisu, pisu, pisu
   , pisu, pisu, pisu, pisu, pisu, pisu, pisu
   , pisu, pisu, pisu, pisu, pisu

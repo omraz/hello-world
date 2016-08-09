@@ -1,4 +1,4 @@
 # hello-world
 first use test
 
-a bit
+Tady pridavam novy text a provadim dalsi zmeny, jako treba smazu predchozi nesmysly.

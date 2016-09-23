@@ -11,3 +11,10 @@ Stale pisu, pisu, pisu, pisu, pisu, pisu, pisu, pisu
   , pisu, pisu
 , pisu, pisu, pisu, pisu, pisu
 , pisu, pisu
+
+
+pridan text v praci
+
+dalsi text
+
+a dalsi text po commitu
